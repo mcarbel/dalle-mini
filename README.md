@@ -5,7 +5,7 @@
 ## How to use it?
 
 You can use the model on [🖍️ craiyon](https://www.craiyon.com/)
-
+or https://huggingface.co/spaces/dalle-mini/dalle-mini
 ## How does it work?
 
 Refer to our reports:
